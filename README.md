@@ -1,2 +1,2 @@
 # blockInitialsCPP
-This very simple cpp program prints out my initials "MS" in block letters.
+This very simple c++ program prints out my initials "MS" in block letters.
